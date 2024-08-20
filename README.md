@@ -1,3 +1,6 @@
+A passionate Full Stack Developer with expertise in Next.js, TypeScript,PHP, Wordpress, Python, FastAPI, Django and Docker more to come.
+
+
 - 👋 Hi, I’m @mughalmuneeb786
 - 👀 I’m interested in Web Development Projects (Django Python FastAPi , NextJS , ReactJS Wordpress) / DevOPs Porjects Docker RHEL etc.
 - 🌱 I’m currently learning DevOps / Backend and Full Stack tools like CI / CD pipelines and more.
